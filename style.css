@@ -321,22 +321,22 @@ nav{
     
 }
 #first-card .card:nth-child(1){
-    background-image: url(/asset/mocha.jpeg);
+    background-image: url(mocha.jpeg);
 }
 #first-card .card:nth-child(2){
-    background-image: url(/asset/latte.jpg);
+    background-image: url(latte.jpg);
 }
 #first-card .card:nth-child(3){
-    background-image: url(/asset/frappe.jpeg);
+    background-image: url(frappe.jpeg);
 }
 #second-card .card:nth-child(1){
-    background-image: url(/asset/capuccino.jpg);
+    background-image: url(capuccino.jpg);
 }
 #second-card .card:nth-child(2){
-    background-image: url(/asset/americano.jpg);
+    background-image: url(americano.jpg);
 }
 #second-card .card:nth-child(3){
-    background-image: url(/asset/affogato.jpg);
+    background-image: url(affogato.jpg);
 }
 .card::before{
     content: attr(data-type);
